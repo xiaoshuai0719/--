@@ -1,0 +1,1 @@
+项目使用 HTTP Basic 认证，用户名 测试，密码 123456。访问 /hello 会返回 "Hello World"。
